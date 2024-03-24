@@ -12,12 +12,16 @@
   <img src="https://komarev.com/ghpvc/?username=icyDenev&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
 ### 👨‍💼 About me:
 
 - 👨 Software Developer & Entrepreneur from Bulgaria 🇧🇬
 - 🏫 College student at Ramapo College of New Jersey
 - 🎯 Main Fields: Entrepreneurship, Backend Development, Database Engineering, Solution Architecture
 - 💡 Interests: Finance, Healthcare, Business Intelligence & Management, AI
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -44,6 +48,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 ### 🔥 Stats:
 
