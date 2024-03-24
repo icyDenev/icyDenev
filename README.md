@@ -9,7 +9,7 @@
 </div>
 
 <div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=icyDenev&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### 👨‍💼 About me:
@@ -46,4 +46,4 @@
 </div>
 
 ### 🔥 Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icyDenev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
