@@ -17,8 +17,8 @@
 ### 👨‍💼 About me:
 
 - 👨 Software Developer & Entrepreneur
-- 🏫 College student at Ramapo College of New Jersey
-- 🎯 Main Fields: Entrepreneurship, Backend Development, Database Engineering, Solution Architecture
+- 🏫 Junior majoring in Computer Science at Ramapo College of New Jersey
+- 🎯 Main Fields: Backend Development, Database Engineering, Solution Architecture, Entrepreneurship
 - 💡 Interests: Finance, Healthcare, Business Intelligence & Management, AI
 
 ---
@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
