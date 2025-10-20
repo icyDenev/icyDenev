@@ -65,12 +65,11 @@ At Ramapo College, I’ve combined **academic excellence (GPA 3.988)** with comm
 
 ### 📈 Interests
 
-- Algorithmic & quantitative trading (FX, crypto, and options backtesting)  
+- Algorithmic & quantitative trading (securities backtesting)  
 - High-performance and distributed systems (.NET, C++, Golang, CUDA)  
 - Data visualization & predictive analytics  
 - Team leadership, mentorship, and startup development  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icyDenev&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icyDenev&layout=compact&theme=github_dark)
