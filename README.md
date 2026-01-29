@@ -11,7 +11,7 @@
 I’m a **software engineer with a systems and data mindset**, passionate about **building performant, distributed, and analytics-driven applications**.  
 My experience ranges from **.NET-based enterprise systems at UPS** to **Golang microservices and CUDA-accelerated C++ research projects** — all tied together by a deep curiosity for how code and data behave at scale.
 
-At Ramapo College, I’ve combined **academic excellence (GPA 3.988)** with community leadership as **President of the Computer Science Club** and **Vice President of the Google Developer Student Club**, mentoring peers in algorithms, data structures, and mathematics.
+At Ramapo College, I’ve combined **academic excellence (GPA 3.99/4)** with community leadership as **President of the Computer Science Club** and **Vice President of the Google Developer Student Club**, mentoring peers in algorithms, data structures, and mathematics.
 
 ---
 
