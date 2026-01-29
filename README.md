@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Hristo Denev
 
 🎯 **Software Engineer | Quant Developer | Computer Science @ Ramapo College (GPA 3.99)**  
+
 📍 Mahwah, NJ | EU Citizenship
+
 📫 [LinkedIn](https://www.linkedin.com/in/hristo-denev)
 
 ---
