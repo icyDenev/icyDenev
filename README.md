@@ -51,7 +51,7 @@ At Ramapo College, I’ve combined **academic excellence (GPA 3.99/4)** with com
 
 - **GutFeel** - A gut-health-monitoring platform that offers personalized insights and probabilistic food recommendations for the best possible food-ingestion response
 - **[IntraderFramework](https://github.com/icyDenev/Intrader)** — A C++ engine + .NET C# client + MySQL for evaluating algorithmic trading strategies.  
-- **Canoga** — A dice strategy game. Implemented the same game in [C++](https://github.com/icyDenev/Canoga), [LISP](https://github.com/icyDenev/CanogaLISP), Java/Kotlin, and Prolog within 3.5 months. Got 99% avg grade for all projects
+- **Canoga** — A dice strategy game. Implemented the same game in [C++](https://github.com/icyDenev/CanogaCPP), [LISP](https://github.com/icyDenev/CanogaLISP), Java/Kotlin, and Prolog within 3.5 months. Got 99% avg grade for all projects
 - **CUDA K-Means Clustering** — Parallelized clustering algorithm achieving up to 400% speedup.    
 - **[Air Pollution IoT System](https://github.com/icyDenev/GreenEyeWebSite)** — Led 8-person team building Arduino + ASP.NET MVC LoRaWAN device and web platform.  
 - **[Smart Toothbrush App](https://github.com/icyDenev/BlueteethXamarinPrototype)** — Xamarin + Firebase mobile app analyzing brushing patterns via Bluetooth sensors.  
