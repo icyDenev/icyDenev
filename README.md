@@ -80,8 +80,4 @@ At Ramapo College, I’ve combined **academic excellence (GPA 3.99/4)** with com
 - Algorithmic & quantitative trading (securities backtesting)  
 - High-performance and distributed systems (.NET, C++, Golang, CUDA)  
 - Data visualization & predictive analytics  
-- Team leadership, mentorship, and startup development  
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icyDenev&layout=compact&theme=github_dark)
+- Team leadership, mentorship, and startup development
